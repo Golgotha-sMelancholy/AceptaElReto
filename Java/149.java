@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * 149 - Hola Mundo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 149 - San Fermines - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
  */
 public class Main {
 
