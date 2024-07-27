@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 116 - Hola Mundo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 120 - Constante Mágica - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
  */
 public class Main {
 
