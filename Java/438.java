@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 438 - Esgritura - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 438 - Esgritura - Iván - https://github.com/wildfireOfMine
  */
 public class Esgrito {
 
