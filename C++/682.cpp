@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 682 - Metidos en un Cajón - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 682 - Metidos en un Cajón - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
