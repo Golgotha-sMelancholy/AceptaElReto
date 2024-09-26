@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-// 116 - Hola Mundo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+
+// 116 - Hola Mundo - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
