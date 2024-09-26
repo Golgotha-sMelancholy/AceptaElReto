@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 364 - Espionaje en Navidad - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 364 - Espionaje en Navidad - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
