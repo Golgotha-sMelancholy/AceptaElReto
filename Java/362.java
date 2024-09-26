@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 362 - El Día de Navidad - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 362 - El Día de Navidad - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
