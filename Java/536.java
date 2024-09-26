@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * 536 - Huerto Ecológico - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 536 - Huerto Ecológico - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
