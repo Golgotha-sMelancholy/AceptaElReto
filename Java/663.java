@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 663 - Contando Desde el Cero - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 663 - Contando Desde el Cero - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
