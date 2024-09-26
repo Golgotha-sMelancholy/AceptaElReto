@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 158 - Los Saltos de Mario - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 158 - Los Saltos de Mario - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
