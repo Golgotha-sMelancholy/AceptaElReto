@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  // 116 - Hola Mundo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+  // 116 - Hola Mundo - Iván - https://github.com/wildfireOfMine
     int bucle = 0;
     string soy = "";
     string nombre = "";
