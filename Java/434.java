@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 434 - Romance en el Palomar - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 434 - Romance en el Palomar - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
