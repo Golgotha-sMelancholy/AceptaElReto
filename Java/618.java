@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 618 - Buscando el Nivel - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 618 - Buscando el Nivel - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
