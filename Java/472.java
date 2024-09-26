@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 472 - Caminando Voy - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 472 - Caminando Voy - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
