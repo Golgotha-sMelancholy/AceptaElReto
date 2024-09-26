@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 680 - La Carrera del Salmón - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 680 - La Carrera del Salmón - Iván - https://github.com/wildfireOfMine
+
 int main()
 {
     int loop = 0;
