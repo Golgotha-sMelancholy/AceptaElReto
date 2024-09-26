@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 120 - Constante Mágica - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 120 - Constante Mágica - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
