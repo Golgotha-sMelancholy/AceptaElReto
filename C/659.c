@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 659 - Números Jeroglíficos - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 659 - Números Jeroglíficos - Iván - https://github.com/wildfireOfMine
+
 int main()
 {
     int number = 0;
