@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 682 - Metidos en un Cajón - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 682 - Metidos en un Cajón - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
