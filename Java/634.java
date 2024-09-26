@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 634 - Bandurria Hero - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 634 - Bandurria Hero - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
