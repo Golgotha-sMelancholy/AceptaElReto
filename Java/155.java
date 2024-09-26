@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 155 - Perímetro de un Rectángulo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 155 - Perímetro de un Rectángulo - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
