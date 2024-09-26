@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 313 - Fin de Mes - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 313 - Fin de Mes - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
