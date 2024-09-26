@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 538 - Toesto Era Campo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 538 - Toesto Era Campo - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
