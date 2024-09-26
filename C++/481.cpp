@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 481 - Ajedrez Asistido por Computador - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 481 - Ajedrez Asistido por Computador - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
