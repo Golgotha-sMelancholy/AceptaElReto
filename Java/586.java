@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 586 - Colección de Calendarios de Bolsillo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 586 - Colección de Calendarios de Bolsillo - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
