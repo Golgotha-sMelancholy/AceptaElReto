@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 158 - Los Saltos de Mario - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 158 - Los Saltos de Mario - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
