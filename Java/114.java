@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 114 - Último Dígito del Factorial - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 114 - Último Dígito del Factorial - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
