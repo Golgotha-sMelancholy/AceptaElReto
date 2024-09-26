@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 659 - Números Jeroglíficos - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 659 - Números Jeroglíficos - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
