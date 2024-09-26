@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 751 - Coetáneos - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 751 - Coetáneos - Iván - https://github.com/wildfireOfMine
 
 int years(int firstStart, int firstEnd, int secondStart, int secondEnd) {
     int difference = 0;
