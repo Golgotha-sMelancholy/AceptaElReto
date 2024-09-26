@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 608 - Peligro por Hielo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 608 - Peligro por Hielo - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
