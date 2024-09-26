@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 114 - Último Dígito del Factorial - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 114 - Último Dígito del Factorial - Iván - https://github.com/wildfireOfMine
+
 int main()
 {
     int loop = 0;
