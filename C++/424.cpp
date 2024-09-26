@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 424 - Ahorro Infantil - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 424 - Ahorro Infantil - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
