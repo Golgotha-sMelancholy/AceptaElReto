@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 219 - La Lotería de la Peña Atlética - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 219 - La Lotería de la Peña Atlética - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
