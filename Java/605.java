@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 605 - Ordenando el Armario - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 605 - Ordenando el Armario - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
