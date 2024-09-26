@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 676 - Día Mundial Del Piano - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 676 - Día Mundial Del Piano - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
   
