@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 300 - Palabras Pentavólicas - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 300 - Palabras Pentavólicas - Iván - https://github.com/wildfireOfMine
 
 bool pentavocalic(string str) {
     bool a = false;
