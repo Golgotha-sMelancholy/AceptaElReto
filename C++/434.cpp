@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 434 - Romance en el Palomar - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 434 - Romance en el Palomar - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
