@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 217 - ¿Qué Lado de la Calle? - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 217 - ¿Qué Lado de la Calle? - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
