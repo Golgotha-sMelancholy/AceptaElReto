@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 380 - ¡Me Caso! - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 380 - ¡Me Caso! - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
