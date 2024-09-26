@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 117 - La Fiesta Aburrida - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 117 - La Fiesta Aburrida - Iván - https://github.com/wildfireOfMine
  */
 
 public class Main {
