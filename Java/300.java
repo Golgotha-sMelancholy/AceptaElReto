@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * 300 - Palabras Pentavocálicas - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 300 - Palabras Pentavocálicas - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
