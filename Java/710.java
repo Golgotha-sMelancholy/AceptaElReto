@@ -4,6 +4,7 @@ import java.util.Scanner;
  *
  * 710 - Plazas Disponibles en un Mundial - Iván - https://github.com/wildfireOfMine
  */
+
 public class Main {
 
     public static void main(String[] args) {
