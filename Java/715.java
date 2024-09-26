@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 715 - ¿Hay Suficientes? - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 715 - ¿Hay Suficientes? - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
