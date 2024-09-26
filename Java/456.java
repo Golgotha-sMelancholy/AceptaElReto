@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 456 - Tarta Sácher - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 456 - Tarta Sácher - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
