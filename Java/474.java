@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 474 - Tu Amigable Vecino - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 474 - Tu Amigable Vecino - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
