@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 427 - Yo Soy Tu... - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 427 - Yo Soy Tu... - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
