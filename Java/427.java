@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 427 - Yo Soy Tu... - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 427 - Yo Soy Tu... - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
