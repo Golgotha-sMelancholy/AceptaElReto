@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 380 - ¡Me Caso! - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 380 - ¡Me Caso! - Iván - https://github.com/wildfireOfMine
+
 int main()
 {
     int loop;
