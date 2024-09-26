@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 166 - Zapping - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 166 - Zapping - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
