@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 595 - ¿En Qué Volumen? - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 595 - ¿En Qué Volumen? - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
