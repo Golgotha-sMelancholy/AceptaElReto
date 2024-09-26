@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 481 - Ajedrez Asistido por Computador - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 481 - Ajedrez Asistido por Computador - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
