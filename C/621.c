@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 621 - La Otra Página - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 621 - La Otra Página - Iván - https://github.com/wildfireOfMine
+
 int main()
 {
     int loop;
