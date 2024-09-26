@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 363 - Las Calorías - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 363 - Las Calorías - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
