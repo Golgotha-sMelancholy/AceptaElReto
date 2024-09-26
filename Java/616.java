@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 616 - Pic, Poc, Pic... Pong! - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 616 - Pic, Poc, Pic... Pong! - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
