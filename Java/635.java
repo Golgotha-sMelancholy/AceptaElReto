@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 635 - Cinquecento - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 635 - Cinquecento - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
