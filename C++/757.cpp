@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 757 - Toques de Balón - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 757 - Toques de Balón - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
