@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 151 - ¿Es Matriz Identidad? - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 151 - ¿Es Matriz Identidad? - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
