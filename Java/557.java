@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 557 - Cucharadas de Sopa - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 557 - Cucharadas de Sopa - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
