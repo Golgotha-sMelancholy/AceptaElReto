@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 617 - Mensajes en Space Invaders - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 617 - Mensajes en Space Invaders - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
