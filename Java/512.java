@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 512 - Döner Sospechoso - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 512 - Döner Sospechoso - Iván - https://github.com/wildfireOfMine
  */
 public class main {
 
