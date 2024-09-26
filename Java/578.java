@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * 578 - Haciendo Inventario - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 578 - Haciendo Inventario - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
