@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 216 - Goteras - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 216 - Goteras - Iván - https://github.com/wildfireOfMine
 
 string time(int seconds){
     int second = 0;
