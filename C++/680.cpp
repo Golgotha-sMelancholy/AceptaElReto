@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 680 - La Carrera de un Salmón - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 680 - La Carrera de un Salmón - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
