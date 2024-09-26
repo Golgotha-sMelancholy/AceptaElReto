@@ -1,7 +1,8 @@
 #include <iostream>
 
 using namespace std;
-// 369 - Contando en la Arena - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+
+// 369 - Contando en la Arena - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
