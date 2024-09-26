@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 710 - Plazas Disponibles en el Mundial - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 710 - Plazas Disponibles en el Mundial - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
