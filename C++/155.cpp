@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 155 - Perímetro de un Rectángulo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 155 - Perímetro de un Rectángulo - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
