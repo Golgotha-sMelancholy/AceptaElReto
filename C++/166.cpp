@@ -22,5 +22,4 @@ int main()
         cin >> positionA;
         cin >> positionB;
     }
-
 }
