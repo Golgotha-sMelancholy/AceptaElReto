@@ -13,7 +13,6 @@ public class Main {
         for (int i = 1; i <= bucle; i++) {
             System.out.println("Hola mundo.");
         }
-
     }
 
 }
