@@ -4,7 +4,7 @@ import java.util.Comparator;
 
 /**
  *
- * 579 - Felipe y Sus Tareas - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 579 - Felipe y Sus Tareas - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
