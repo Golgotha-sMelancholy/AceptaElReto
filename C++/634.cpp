@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 634 - Bandurria Hero - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 634 - Bandurria Hero - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
