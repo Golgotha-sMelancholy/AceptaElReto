@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * 337 - La Abuela María - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 337 - La Abuela María - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
