@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 506 - Tensión Descompensada - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 506 - Tensión Descompensada - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
