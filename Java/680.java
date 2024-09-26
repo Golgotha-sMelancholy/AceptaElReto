@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 680 - La Carrera del Salmón - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 680 - La Carrera del Salmón - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
