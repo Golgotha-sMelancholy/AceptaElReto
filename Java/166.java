@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 166 - Zapping - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 166 - Zapping - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
