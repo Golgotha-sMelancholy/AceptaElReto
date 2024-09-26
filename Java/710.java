@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 710 - Plazas Disponibles en un Mundial - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 710 - Plazas Disponibles en un Mundial - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
