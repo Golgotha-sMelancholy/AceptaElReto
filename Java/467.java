@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 467 - Polisílaba es Polisílaba - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 467 - Polisílaba es Polisílaba - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
