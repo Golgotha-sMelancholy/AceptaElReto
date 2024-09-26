@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 608 - Peligro por Hielo - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 608 - Peligro por Hielo - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
