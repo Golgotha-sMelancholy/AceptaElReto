@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 616 - Pic, poc, pic... Pong! - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 616 - Pic, poc, pic... Pong! - Iván - https://github.com/wildfireOfMine
 
 int main() {
 
