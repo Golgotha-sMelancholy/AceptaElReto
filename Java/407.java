@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 407 - Rebotando en el Parchís - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 407 - Rebotando en el Parchís - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
