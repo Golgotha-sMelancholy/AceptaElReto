@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 355 - Gregorio XIII - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+// 355 - Gregorio XIII - Iván - https://github.com/wildfireOfMine
 
 int main()
 {
