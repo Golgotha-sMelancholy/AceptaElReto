@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * 479 - El Hombre Sin Miedo y Sin Radar - Golgotha's Melancholy - https://github.com/Golgotha-sMelancholy
+ * 479 - El Hombre Sin Miedo y Sin Radar - Iván - https://github.com/wildfireOfMine
  */
 public class Main {
 
