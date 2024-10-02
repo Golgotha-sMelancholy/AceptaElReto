@@ -4,8 +4,7 @@ using namespace std;
 
 // 158 - Los Saltos de Mario - Iván - https://github.com/wildfireOfMine
 
-int main()
-{
+int main() {
     int loop = 0;
     cin >> loop;
     for (int i = 0; i<loop; i++) {
